@@ -1,3 +1,11 @@
+Flowchartnya
+
+
+![tugas 5](https://user-images.githubusercontent.com/56390857/72361221-b0558880-3723-11ea-8d95-f6139ab62e0c.JPG)
+
+
+Untuk kodingnya =
+
 data = {}
 print("Program Input Nilai")
 print("===================")
@@ -66,3 +74,8 @@ NIM=data[nama][1],tugas=data[nama][2], uts=data[nama][3], uas=data[nama][4], akh
             print("Data nilai untuk anak yang bernama {0} tidak ada".format(nama))
     else:
         print("Pilih menu yang tersedia")
+        
+        
+  Hasilnya seperti dibawah ini
+  
+  ![5-hasil](https://user-images.githubusercontent.com/56390857/72361114-84d29e00-3723-11ea-850f-3befdf31c75c.JPG)
